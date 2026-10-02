@@ -1,1 +1,2 @@
 Primera frase del segundo archivo.
+Segunda línea añadida al archivo dos.
