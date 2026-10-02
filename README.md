@@ -5,3 +5,4 @@ Repositorio utilizado para aprender Git y GitHub
 - Prácticas de Git
 - Ejercicios de clase
 -Proyecto de 2º SMR
+Nueva línea para la prueba 2
