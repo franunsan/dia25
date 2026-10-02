@@ -1,0 +1,3 @@
+1. Usar git status para ver cambios
+2. Guardar con git commit
+3. Subir con git push
