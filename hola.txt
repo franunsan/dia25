@@ -4,3 +4,5 @@ Estoy aprendiendo a utilizar Git.
 Nueva línea para la prueba 1
 Primer cambio para el ejercicio 17.
 Prueba para comprobar el funcionamiento de git push.
+Modificación realizada en la sesión de trabajo.
+Modificación realizada en la sesión de trabajo.
